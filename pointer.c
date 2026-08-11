@@ -5,11 +5,13 @@ int main()
   int i;
   int *p;
   p = a;
+  /*printing all a[i] elements*/
   for(i=0;i<5;i++)
   {
     printf("%d\n",p[i]);
 
   }
+  /*printing all a[i] elements*/
   for(i=0;i<5;i++)
   {
     printf("%d\n",a[i]);
